@@ -1,4 +1,9 @@
-[![Packagist](https://img.shields.io/packagist/v/snowdog/frontools.svg)](https://packagist.org/packages/snowdog/frontools) [![Packagist](https://img.shields.io/packagist/dt/snowdog/frontools.svg)](https://packagist.org/packages/snowdog/frontools)
+[![Packagist](https://img.shields.io/packagist/v/mooore/frontools.svg)](https://packagist.org/packages/mooore/frontools)
+[![Packagist](https://img.shields.io/packagist/dt/mooore/frontools.svg)](https://packagist.org/packages/mooore/frontools)
+
+> **Info** This a fork of the SnowdogApps/magento2-frontools,
+> This fork will only contain updates,
+> we are not adding any new features!
 
 # Magento 2 Frontools
 Set of front-end tools for Magento 2
