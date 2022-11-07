@@ -71,7 +71,7 @@
     "test": "eslint *.js helpers/*.js tasks/*.js"
   },
   "engines": {
-    "node": ">=16.12.0 <17.0.0"
+    "node": ">=16.12.0"
   },
   "volta": {
     "node": "16.12.0"
