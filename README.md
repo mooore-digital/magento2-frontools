@@ -1,22 +1,24 @@
 [![Packagist](https://img.shields.io/packagist/v/mooore/frontools.svg)](https://packagist.org/packages/mooore/frontools)
 [![Packagist](https://img.shields.io/packagist/dt/mooore/frontools.svg)](https://packagist.org/packages/mooore/frontools)
 
-> **Info** This a fork of the SnowdogApps/magento2-frontools,
+> **Note** This a fork of the SnowdogApps/magento2-frontools,
 > This fork will only contain updates,
 > we are not adding any new features!
+>
+> This for is only to support newer versions of NodeJS
 
 # Magento 2 Frontools
 Set of front-end tools for Magento 2
 
 ## Requirements
 * Unix-like OS (please, do not ask about Windows support)
-* Node.js [LTS version](https://nodejs.org/en/about/releases/). We recommend using [Volta](https://volta.sh/).
-* Magento 2 project with SASS based theme for example [SASS version of "Blank"](https://github.com/SnowdogApps/magento2-theme-blank-sass) or [Alpaca Theme](https://github.com/SnowdogApps/magento2-alpaca-theme)
+* Node.js [LTS version](https://nodejs.org/en/about/releases/). We recommend using [nvm-sh](https://github.com/nvm-sh/nvm).
+* Magento 2 project with SASS based theme for example [SASS version of "Blank"](https://github.com/SnowdogApps/magento2-theme-blank-sass)
 
 ## Installation
 1. Run `composer require snowdog/frontools`
 2. Go to package directory `cd vendor/snowdog/frontools`
-3. Run `yarn` or `npm install`
+3. Run `npm install` or `yarn`
 4. Decide where you want to keep your config files.
 You can store them in Frontools `config` directory or in `dev/tools/frontools/config` (recommended).
 There is a `setup` task to copy all sample config files from the `config` to `dev/tools/frontools/config` and create a convenient symlink `tools` in the project root.
