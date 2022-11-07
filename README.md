@@ -16,8 +16,8 @@ Set of front-end tools for Magento 2
 * Magento 2 project with SASS based theme for example [SASS version of "Blank"](https://github.com/SnowdogApps/magento2-theme-blank-sass)
 
 ## Installation
-1. Run `composer require snowdog/frontools`
-2. Go to package directory `cd vendor/snowdog/frontools`
+1. Run `composer require mooore/frontools`
+2. Go to package directory `cd vendor/mooore/frontools`
 3. Run `npm install` or `yarn`
 4. Decide where you want to keep your config files.
 You can store them in Frontools `config` directory or in `dev/tools/frontools/config` (recommended).

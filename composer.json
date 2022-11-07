@@ -1,6 +1,13 @@
 {
-    "name": "snowdog/frontools",
+    "name": "mooore/frontools",
     "description": "Set of front-end tools for Magento 2, based on Gulp.js",
     "license": "MIT",
-    "type": "magento2-component"
+    "type": "magento2-component",
+    "readme": "README.md",
+    "keywords": [
+        "magento2",
+        "magento2-module",
+        "gulpjs",
+        "sass"
+    ]
 }
