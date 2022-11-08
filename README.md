@@ -5,7 +5,7 @@
 > This fork will only contain updates,
 > we are not adding any new features!
 >
-> This for is only to support newer versions of NodeJS
+> This fork is only to support newer versions of NodeJS
 
 # Magento 2 Frontools
 Set of front-end tools for Magento 2
